@@ -1,0 +1,14 @@
+{
+    "name": "forgetphp/composer",
+    "description": "composer project test",
+    "type": "project",
+    "license": "Apache",
+    "authors": [
+        {
+            "name": "陈鸿",
+            "email": "747825455@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
